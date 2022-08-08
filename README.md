@@ -28,7 +28,6 @@ Hi There,This is a quick list of the graduation projects competitions with offic
          <td> <li> <a href="https://emcenvisionthefuture.com/"> <b> Link </b> </a> </li>  </td>
          </tr>
          <tr>
-           
             <td> Egypt IoT & AI Challenge </td>
             <td> <li> set of challenges to be solved by a graduation project in order to go to the next phase </li> </td>
             <td> <li> <a href="https://egypt.arabiotai.org/"> <b> Link </b> </a> </li>  </td>
