@@ -57,3 +57,8 @@ Hi There,This is a quick list of the graduation projects competitions with offic
                <li> <a href="https://ugrf.nu.edu.eg/"> <b> Link 1 </b> </a> </li>
                <li> <a href="https://www.facebook.com/nuresearch1/"> <b> Link 2 </b> </a> </li>
            </tr>
+           <tr>
+             <td> Egyptian Engineering Day </td>
+             <td> <li> Registration with fees </li> </td>
+              <li> <a href="https://www.facebook.com/EgyptianEngineeringDay"> <b> Link  </b> </a> </li>
+           </tr>
