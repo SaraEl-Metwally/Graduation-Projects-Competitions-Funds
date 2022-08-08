@@ -14,7 +14,8 @@ Hi There,This is a quick list of the graduation projects competitions with offic
                  <li> مسابقة سنوية - العام القادم إن شاء الله - ابداع 11 </li>
                  <li> شرح فكرة المشروع من خلال الإجابة على مجموعة أسئلة في صفحتين  </li>
                  <li> ضرورة تواجد حساب بنكي أو بريدي عند التقديم وصورة من كارنية الجامعه </li>
-                <li>  عند التأهل شرح الفكرة مع تواجد نموذج أولي وبوستر على أحد مسارح وزارة الشباب والرياضة </li>
+                 <li>  عند التأهل شرح الفكرة مع تواجد نموذج أولي وبوستر على أحد مسارح وزارة الشباب والرياضة </li>
+                 <li> Expected Application Date: November-December </li>
             </td>
             <td> <li> <a href="https://www.facebook.com/ibda3.6/"> <b> Link </b></a> </li> </td>
        </tr>
