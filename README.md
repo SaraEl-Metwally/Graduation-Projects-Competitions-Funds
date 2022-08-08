@@ -19,3 +19,13 @@ Hi There,This is a quick list of the graduation projects competitions with offic
             </td>
             <td> <li> <a href="https://www.facebook.com/ibda3.6/"> <b> Link </b></a> </li> </td>
        </tr>
+       <tr>
+         <td> Dell Competition </td>
+         <td>   <li> Deadline around 30 December </li>
+                <li> well-written proposal with solid methodology, business, contingency and risk plan </li>
+                <li> Good and Clear Video will help to go to the next phase with a good project description </li> 
+          </td>
+         
+         <td> <li> <a href="https://emcenvisionthefuture.com/"> <b> Link </b></a> </li>  </td>
+         
+       </tr>
