@@ -59,6 +59,6 @@ Hi There,This is a quick list of the graduation projects competitions with offic
            </tr>
            <tr>
              <td> Egyptian Engineering Day </td>
-             <td> <li> Registration with fees </li> </td>
+             <td> <li> Registration with fees i.e. 500 egp </li> </td>
               <td> <li> <a href="https://www.facebook.com/EgyptianEngineeringDay"> <b> Link  </b> </a> </li> </td>
            </tr>
