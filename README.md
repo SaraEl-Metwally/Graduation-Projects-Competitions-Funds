@@ -37,3 +37,10 @@ Hi There,This is a quick list of the graduation projects competitions with offic
            <td> <li> ibTIECar Marathon@CREATIVA is a series of interactive market-driven online local competitions that will be organized all over Egypt and across 10 different governments.  </li> </td>
            <td> <li> <a href="https://tiec.gov.eg/english/programs/ibtiecar-marathon-creativa/Pages/default.aspx"> <b> Link </b> </a> </li>  </td>
          </tr>
+         <tr>
+           <td> Egypt Entrepreneurship Rally  </td>
+           <td> <li> Deadline: 15 February </li>
+             <li> Good business model will help to go to the finals </li> 
+           </td>
+           <td><li> <a href="http://ec.aast.edu/rallycompetition.php"> <b> Link </b> </a>
+         </tr>
