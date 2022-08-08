@@ -67,5 +67,12 @@ Hi There,This is a quick list of the graduation projects competitions with offic
              <td> <li> Selection Process by FCIS Mansoura University </li> 
                   <li> Each Year Has a Theme and organized by one of FCIS faculties </li>
              </td>
-              <td> <li> <a href=""> <b> Link  </b> </a> </li> </td>
+              <td> <li>  <b> Link : Not available  </b> </a> </li> </td>
+           </tr>
+            <tr>
+             <td> HACK22 by AUC </td>
+             <td> <li> Selection Process by FCIS Mansoura University </li> 
+                  <li> Each Year Has a Theme and organized by one of FCIS faculties </li>
+             </td>
+              <td> <li> <a href="https://hack22.untapcompete.com/?fbclid=IwAR36AKlvw4qh0Yq17293l5e_fHCCWH025V5XTCEUQyfSkfa_0HKTOZUWGyc"> <b> Link </b> </a> </li> </td>
            </tr>
