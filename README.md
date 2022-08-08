@@ -44,3 +44,16 @@ Hi There,This is a quick list of the graduation projects competitions with offic
            </td>
            <td><li> <a href="http://ec.aast.edu/rallycompetition.php"> <b> Link </b> </a>
          </tr>
+           <tr>
+             <td> UGRF-NU/Egyptian Junior Researcher Competition </td>
+             <td> 
+                  <li> Deadline: around 22 July </li>
+                  <li> Please follow thier strict rules such as two pages project description </li>
+                  <li> Prepare a video and project poster </li>
+                   <li> short-list project will be announced in August </li>
+                   <li> always check your email and may be send you an e-mail in the last minute </li>
+             </td> 
+             <td>
+               <li> <a href="https://ugrf.nu.edu.eg/"> <b> Link 1 </b> </a> </li>
+               <li> <a href="https://www.facebook.com/nuresearch1/"> <b> Link 2 </b> </a> </li>
+           </tr>
