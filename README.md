@@ -32,3 +32,8 @@ Hi There,This is a quick list of the graduation projects competitions with offic
             <td> <li> set of challenges to be solved by a graduation project in order to go to the next phase </li> </td>
             <td> <li> <a href="https://egypt.arabiotai.org/"> <b> Link </b> </a> </li>  </td>
          </tr>
+         <tr>
+           <td> ibTIECar Marathon@CREATIVA </td>
+           <td> <li> ibTIECar Marathon@CREATIVA is a series of interactive market-driven online local competitions that will be organized all over Egypt and across 10 different governments.  </li> </td>
+           <td> <li> <a href="https://tiec.gov.eg/english/programs/ibtiecar-marathon-creativa/Pages/default.aspx"> <b> Link </b> </a> </li>  </td>
+         </tr>
