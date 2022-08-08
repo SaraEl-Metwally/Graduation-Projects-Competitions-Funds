@@ -74,3 +74,10 @@ Hi There,This is a quick list of the graduation projects competitions with offic
              <td> <li> Expected Dates: June </li> </td>
               <td> <li> <a href="https://hack22.untapcompete.com/?fbclid=IwAR36AKlvw4qh0Yq17293l5e_fHCCWH025V5XTCEUQyfSkfa_0HKTOZUWGyc"> <b> Link </b> </a> </li> </td>
            </tr>
+           <tr>
+             <td> Banha Hackaton for Smart Cities </td>
+             <td> <li> Expected Dates: February </li> 
+                  <li> Consider using the APIs, Tools provided by sponsers like Amazon, IBM, etc.  </li> 
+             </td>
+              <td> <li> <a href="https://bu.edu.eg/en/competitions/hackathon.php"> <b> Link </b> </a> </li> </td>
+           </tr>
