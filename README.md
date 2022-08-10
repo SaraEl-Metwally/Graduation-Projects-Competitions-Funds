@@ -106,4 +106,9 @@ Hi There,This is a quick list of the graduation projects competitions and funds 
             <td> <li> Expected Date: November-December </li>
                <li> <a href="http://www.asrt.sci.eg/wp-content/uploads/2021/03/faqs-gp.pdf"> <b> معلومات هامة </b> </a> </li></td>
           </tr>
+           <tr>
+             <td> Valeo Egypt Graduation Project Support </td>
+             <td> <li> <a href="https://docs.google.com/forms/d/e/1FAIpQLSdgNwSQUEOx9zLb8DfWrG3smPH-6UjfFlgdAnA2lXiJYzQ2aw/viewform"> <b> Link </b> </a> </li> </td> 
+             <td> <li> <a href="https://valeo.smarpshare.com/app.microblog/#/5f6b3507fec2890001946b6b"> <b> Eligibility Criteria in 2020 </b> </a> </li></td>
+  </tr>
    </table> 
