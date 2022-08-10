@@ -82,15 +82,22 @@ Hi There,This is a quick list of the graduation projects competitions and funds 
              </td>
               <td> <li> <a href="https://bu.edu.eg/en/competitions/hackathon.php"> <b> Link </b> </a> </li> </td>
            </tr>
-  </table> 
+  </table>
+  
 ## Graduation Projects Funds
+
   <table>  
         <thead>
            <th> Funds & Mentoring </th>
            <th> Link </th>
+           <th> Notes </th>
         </thead>
           <tr>
           <td> ITAC University Student Projects </td> 
           <td> <li> <a href="https://itida.gov.eg/English/Programs/Graduation/Pages/default.aspx"> <b> Link </b> </a> </li> </td>
+          <td> <li> Expected Date: January-February </li>
+               <li> It's a refund program, pay first then refund </li>
+               <li> It has restricted rules regarding the budget so read it carefully </li>
+          </td> 
           </tr>
-         </table> 
+   </table> 
