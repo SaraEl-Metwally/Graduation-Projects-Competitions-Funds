@@ -143,6 +143,9 @@ Hi There,This is a quick list of the graduation projects competitions and funds 
   <td> Graduation Projects Support by Orange </td> 
      <td> <li> <a href="https://www.orange.eg/en/about/company-overview/social-responsibility/youth-foundation/graduation-projects-data-support"> <b> Link </b> </a> </li> </td>
   <td> </td>
+    <td> Graduation Projects Support by Eduvate  </td> 
+     <td> <li> <a href="https://www.facebook.com/Eduvate-1311710185651473/"> <b> Link </b> </a> </li> </td>
+  <td> <li> <a href="https://www.facebook.com/1311710185651473/videos/523212309235144/"> <b> More Information </b> </a> </li> </td>
    </table> 
    
 ### Acknowledgments 
