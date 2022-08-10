@@ -82,6 +82,11 @@ Hi There,This is a quick list of the graduation projects competitions and funds 
              </td>
               <td> <li> <a href="https://bu.edu.eg/en/competitions/hackathon.php"> <b> Link </b> </a> </li> </td>
            </tr>
+           <tr>
+             <td> Egypt Industry 4.0 Challenge </td>
+             <td> <li> <a href="https://fb.watch/ePedZbxNPB/"> <b> Important Information </b> </a> </li> </td>
+              <td> <li> <a href="https://www.facebook.com/egyptindustry4/"> <b> Link </b> </a> </li> </td>
+           </tr>
   </table>
   
 ## Graduation Projects Funds
