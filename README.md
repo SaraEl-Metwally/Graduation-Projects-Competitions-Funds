@@ -29,7 +29,7 @@ Hi There,This is a quick list of the graduation projects competitions and funds 
          <td> <li> <a href="https://emcenvisionthefuture.com/"> <b> Link </b> </a> </li>  </td>
          </tr>
          <tr>
-            <td> Egypt IoT & AI Challenge </td>
+            <td> Arab/Egypt IoT & AI Challenge </td>
             <td> <li> set of challenges to be solved by a graduation project in order to go to the next phase </li> </td>
             <td> <li> <a href="https://egypt.arabiotai.org/"> <b> Link </b> </a> </li>  </td>
          </tr>
@@ -102,10 +102,8 @@ Hi There,This is a quick list of the graduation projects competitions and funds 
           </tr>
           <tr>
             <td> مشروع بدايتي لتمويل مشاريع التخرج </td>
-                      <td> <li> <a href="http://www.eyas.eg.net/ar/index.php/conf/item/970-graduation-project"> <b> Link </b> </a> </li> </td>
-          <td> <li> Expected Date: November-December </li>
-               <li> <a href="http://www.asrt.sci.eg/wp-content/uploads/2021/03/faqs-gp.pdf"> <b> معلومات هامة </b> </a> </li>
-              
-          </td>
+            <td> <li> <a href="http://www.eyas.eg.net/ar/index.php/conf/item/970-graduation-project"> <b> Link </b> </a> </li> </td>
+            <td> <li> Expected Date: November-December </li>
+               <li> <a href="http://www.asrt.sci.eg/wp-content/uploads/2021/03/faqs-gp.pdf"> <b> معلومات هامة </b> </a> </li></td>
           </tr>
    </table> 
