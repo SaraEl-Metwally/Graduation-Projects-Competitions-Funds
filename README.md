@@ -116,4 +116,11 @@ Hi There,This is a quick list of the graduation projects competitions and funds 
          <td> <li> <a href="https://www.tra.gov.eg/en/industry/research-and-development/applied-research-projects/ntras-sponsorship-of-graduation-projects/"> <b> Link </b> </a> </li> </td>
      <td> <li> Expected Deadline Date: April  </li></td>
    </tr>
+  <tr> 
+    <td> technedrifts </td>
+    <td> <li> <a href="https://eg.technedrifts.com/compete"> <b> Link </b> </a> </li> </td>
+     <td> <li> Show business model in 5 minutes </li></td>
+  
+  
+  </tr>
    </table> 
