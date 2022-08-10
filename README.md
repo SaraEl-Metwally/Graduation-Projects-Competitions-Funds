@@ -136,6 +136,9 @@ Hi There,This is a quick list of the graduation projects competitions and funds 
     <td> <li> <a href="https://docs.google.com/forms/d/e/1FAIpQLSchsCvlV6UEYysCcVif7g9pgVrTR6zQFHgv5CQ4Y_J2mR1PPQ/viewform"> <b> Link </b> </a> </li> </td>
     <td> <li> <a href="https://www.facebook.com/114346896922198/posts/your-graduation-project-has-three-main-phases-idea-design-and-prototyping-so-sec/138512877838933/?_rdr"> <b> More Information </b> </a> </li> </td>
   </tr>
+  <td> Schneider Students & Young Professionals </td> 
+     <td> <li> <a href="https://www.se.com/eg/en/about-us/careers/students-young-professionals.jsp"> <b> Link </b> </a> </li> </td>
+  <td> </td>
    </table> 
    
 ### Acknowledgments 
