@@ -82,6 +82,7 @@ Hi There,This is a quick list of the graduation projects competitions and funds 
              </td>
               <td> <li> <a href="https://bu.edu.eg/en/competitions/hackathon.php"> <b> Link </b> </a> </li> </td>
            </tr>
+  </table> 
 ## Graduation Projects Funds
   <table>  
         <thead>
@@ -92,4 +93,4 @@ Hi There,This is a quick list of the graduation projects competitions and funds 
           <td> ITAC University Student Projects </td> 
           <td> <li> <a href="https://itida.gov.eg/English/Programs/Graduation/Pages/default.aspx"> <b> Link </b> </a> </li> </td>
           </tr>
-        
+         </table> 
