@@ -139,6 +139,10 @@ Hi There,This is a quick list of the graduation projects competitions and funds 
   <td> Schneider Students & Young Professionals </td> 
      <td> <li> <a href="https://www.se.com/eg/en/about-us/careers/students-young-professionals.jsp"> <b> Link </b> </a> </li> </td>
   <td> </td>
+    </tr>
+  <td> Graduation Projects Support by Orange </td> 
+     <td> <li> <a href="https://www.orange.eg/en/about/company-overview/social-responsibility/youth-foundation/graduation-projects-data-support"> <b> Link </b> </a> </li> </td>
+  <td> </td>
    </table> 
    
 ### Acknowledgments 
