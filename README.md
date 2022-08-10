@@ -100,4 +100,12 @@ Hi There,This is a quick list of the graduation projects competitions and funds 
                <li> It has restricted rules regarding the budget so read it carefully </li>
           </td> 
           </tr>
+          <tr>
+            <td> مشروع بدايتي لتمويل مشاريع التخرج </td>
+                      <td> <li> <a href="http://www.eyas.eg.net/ar/index.php/conf/item/970-graduation-project"> <b> Link </b> </a> </li> </td>
+          <td> <li> Expected Date: November-December </li>
+               <li> <a href="http://www.asrt.sci.eg/wp-content/uploads/2021/03/faqs-gp.pdf"> <b> معلومات هامة </b> </a> </li>
+              
+          </td>
+          </tr>
    </table> 
