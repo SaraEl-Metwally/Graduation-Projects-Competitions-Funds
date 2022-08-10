@@ -120,7 +120,10 @@ Hi There,This is a quick list of the graduation projects competitions and funds 
     <td> technedrifts </td>
     <td> <li> <a href="https://eg.technedrifts.com/compete"> <b> Link </b> </a> </li> </td>
      <td> <li> Show business model in 5 minutes </li></td>
-  
-  
+  </tr>
+  <tr>
+    <td> One Labs </td>
+    <td> <li> <a href="https://onelab-eg.com/gp2022/"> <b> Link </b> </a> </li> </td>
+    <td> <li> <a href="https://onelab-eg.com/contact/"> <b> Contacts </b> </a> </li> </td>
   </tr>
    </table> 
