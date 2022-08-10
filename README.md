@@ -1,5 +1,6 @@
-# Graduation-Projects-Competitions-
-Hi There,This is a quick list of the graduation projects competitions with official links and some notes about them. 
+# Graduation-Projects-Competitions-Funds
+Hi There,This is a quick list of the graduation projects competitions and funds with official links and some notes about them.
+## Graduation Projects Competitions 
   <table>  
         <thead>
            <th> Competition </th>
@@ -81,3 +82,14 @@ Hi There,This is a quick list of the graduation projects competitions with offic
              </td>
               <td> <li> <a href="https://bu.edu.eg/en/competitions/hackathon.php"> <b> Link </b> </a> </li> </td>
            </tr>
+## Graduation Projects Funds
+  <table>  
+        <thead>
+           <th> Funds & Mentoring </th>
+           <th> Link </th>
+        </thead>
+          <tr>
+          <td> ITAC University Student Projects </td> 
+          <td> <li> <a href="https://itida.gov.eg/English/Programs/Graduation/Pages/default.aspx"> <b> Link </b> </a> </li> </td>
+          </tr>
+        
