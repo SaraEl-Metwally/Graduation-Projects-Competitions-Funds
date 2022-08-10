@@ -114,6 +114,6 @@ Hi There,This is a quick list of the graduation projects competitions and funds 
    <tr>
          <td> NTRA’s Sponsorship of Graduation Projects </td>
          <td> <li> <a href="https://www.tra.gov.eg/en/industry/research-and-development/applied-research-projects/ntras-sponsorship-of-graduation-projects/"> <b> Link </b> </a> </li> </td>
-     <td> <li> Expected Deadline Date: April  </li><td>
+     <td> <li> Expected Deadline Date: April  </li></td>
    </tr>
    </table> 
