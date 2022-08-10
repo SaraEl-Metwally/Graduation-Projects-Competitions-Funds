@@ -148,6 +148,11 @@ Hi There,This is a quick list of the graduation projects competitions and funds 
      <td> <li> <a href="https://www.facebook.com/Eduvate-1311710185651473/"> <b> Link </b> </a> </li> </td>
     <td> <li> <a href="https://www.facebook.com/1311710185651473/videos/523212309235144/"> <b> More Information </b> </a> </li> </td>
   </tr>
+  <tr>
+  <td> Graduate Development Program by Elsewedy Electric </td>
+  <td> <li> <a href="https://www.elsewedyelectric.com/en/news-room/gdp/"> <b> Link </b> </a> </li> </td>
+  <td> </td>
+  </tr>
    </table> 
    
 ### Acknowledgments 
