@@ -131,6 +131,11 @@ Hi There,This is a quick list of the graduation projects competitions and funds 
     <td> <li> <a href="https://onelab-eg.com/gp2022/"> <b> Link </b> </a> </li> </td>
     <td> <li> <a href="https://onelab-eg.com/contact/"> <b> Contacts </b> </a> </li> </td>
   </tr>
+  <tr>
+    <td> Sector B5 </td>
+    <td> <li> <a href="https://docs.google.com/forms/d/e/1FAIpQLSchsCvlV6UEYysCcVif7g9pgVrTR6zQFHgv5CQ4Y_J2mR1PPQ/viewform"> <b> Link </b> </a> </li> </td>
+    <td> <li> <a href="https://www.facebook.com/114346896922198/posts/your-graduation-project-has-three-main-phases-idea-design-and-prototyping-so-sec/138512877838933/?_rdr"> <b> More Information </b> </a> </li> </td>
+  </tr>
    </table> 
    
 ### Acknowledgments 
