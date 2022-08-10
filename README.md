@@ -153,6 +153,11 @@ Hi There,This is a quick list of the graduation projects competitions and funds 
   <td> <li> <a href="https://www.elsewedyelectric.com/en/news-room/gdp/"> <b> Link </b> </a> </li> </td>
   <td> </td>
   </tr>
+  <tr>
+  <td> Abu Hashima’s Startup Power Competition </td>
+  <td> <li> <a href="http://www.msmeda.org.eg/StartupPower/StartupPower/StartupPowerFinished"> <b> Link </b> </a> </li> </td>
+  <td> <li> <a href="https://www.facebook.com/AhmedAbouHashima/videos/716531399545684/"> <b> Link </b> </a> </li> </td>
+  </tr>
    </table> 
    
 ### Acknowledgments 
