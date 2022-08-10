@@ -111,4 +111,9 @@ Hi There,This is a quick list of the graduation projects competitions and funds 
              <td> <li> <a href="https://docs.google.com/forms/d/e/1FAIpQLSdgNwSQUEOx9zLb8DfWrG3smPH-6UjfFlgdAnA2lXiJYzQ2aw/viewform"> <b> Link </b> </a> </li> </td> 
              <td> <li> <a href="https://valeo.smarpshare.com/app.microblog/#/5f6b3507fec2890001946b6b"> <b> Eligibility Criteria in 2020 </b> </a> </li></td>
   </tr>
+   <tr>
+         <td> NTRA’s Sponsorship of Graduation Projects </td>
+         <td> <li> <a href="https://www.tra.gov.eg/en/industry/research-and-development/applied-research-projects/ntras-sponsorship-of-graduation-projects/"> <b> Link </b> </a> </li> </td>
+     <td> <li> Expected Deadline Date: April  </li><td>
+   </tr>
    </table> 
