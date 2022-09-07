@@ -122,6 +122,41 @@ Hi There,This is a quick list of the graduation projects competitions and funds 
              <td> <li> <a href="Ammar_Raka.pdf"> <b> Important Information </b> </a> </li> </td>
              <td> <li> <a href="https://www.facebook.com/yec.mans"> <b> Link </b> </a> </li> </td>
            </tr>
+             <tr>
+             <td>  E-JUST Dragon camp </td>
+             <td> <li> <a href="Ammar_Raka.pdf"> <b> Important Information </b> </a> </li> </td>
+             <td> <li> <a href="https://www.facebook.com/events/547811857096089/?active_tab=discussion"> <b> Link </b> </a> </li> </td>
+           </tr>
+            <tr>
+             <td> The 1st IEEE CAS Agriculture 4.0 Hackathon (Agrihackathon) </td>
+             <td> <li> <a href="Ammar_Raka.pdf"> <b> Important Information </b> </a> </li> </td>
+              <td> <li> <a href="https://www.facebook.com/events/3259566267657731/"> <b> Link </b> </a> </li> </td>
+           </tr>
+            <tr>
+             <td> Arab Security Cyber Wargames </td>
+             <td> <li> <a href="Ammar_Raka.pdf"> <b> Important Information </b> </a> </li> </td>
+              <td> <li> <a href="https://www.facebook.com/ascyberwargames/"> <b> Link </b> </a> </li> </td>
+           </tr>
+            <tr>
+             <td> Global Forum for Higher Education and Scientific Research </td>
+             <td> <li> <a href="Ammar_Raka.pdf"> <b> Important Information </b> </a> </li> </td>
+              <td> <li> <a href="https://www.facebook.com/GFHSEgypt/"> <b> Link </b> </a> </li> </td>
+           </tr>
+            <tr>
+             <td> Cairo ICT  </td>
+             <td> <li> <a href="Ammar_Raka.pdf"> <b> Important Information </b> </a> </li> </td>
+              <td> <li> <a href="https://cairoict.com/"> <b> Link </b> </a> </li> </td>
+           </tr>
+            <tr>
+             <td> Hult Prize  </td>
+             <td> <li> <a href="Ammar_Raka.pdf"> <b> Important Information </b> </a> </li> </td>
+             <td> <li> <a href="https://www.facebook.com/HultPrizeatMansourauniversity"> <b> Link </b> </a> </li> </td>
+           </tr>
+            <tr>
+             <td> MIT ‘S solve  </td>
+             <td> <li> <a href="Ammar_Raka.pdf"> <b> Important Information </b> </a> </li> </td>
+             <td> <li> <a href="https://solve.mit.edu/challenges"> <b> Link </b> </a> </li> </td>
+           </tr>
   </table>
   
 ## Graduation Projects Funds
