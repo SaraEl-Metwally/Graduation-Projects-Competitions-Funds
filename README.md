@@ -158,6 +158,37 @@ Also, some students contributed to this repo (see Acknowledgments) by listing so
              <td> <li> <a href="Ammar_Raka.pdf"> <b> Important Information </b> </a> </li> </td>
              <td> <li> <a href="https://solve.mit.edu/challenges"> <b> Link </b> </a> </li> </td>
            </tr>
+           <tr>
+             <td>  AUC venture lab   </td>
+             <td> <li> <a href="Ammar_Raka.pdf"> <b> Important Information </b> </a> </li> </td>
+             <td> <li> <a href="https://business.aucegypt.edu/centers/vlab"> <b> Link </b> </a> </li> </td>
+           </tr>
+            <tr>
+             <td> BUE business incubators </td>
+             <td> <li> <a href="Ammar_Raka.pdf"> <b> Important Information </b> </a> </li> </td>
+             <td> <li> <a href="http://bi.bue.edu.eg/"> <b> Link </b> </a> </li> </td>
+           </tr>
+            <tr>
+             <td> Undergraduate Research Competition. By Abu Dhabi university </td>
+             <td> <li> <a href="Ammar_Raka.pdf"> <b> Important Information </b> </a> </li> </td>
+             <td> <li> <a href="https://www.adu.ac.ae/urc"> <b> Link </b> </a> </li> </td>
+           </tr>
+           <tr>
+             <td> She can </td>
+             <td> <li> <a href="Ammar_Raka.pdf"> <b> Important Information </b> </a> </li> </td>
+             <td> <li> <a href="https://entreprenelle.com/she-can/"> <b> Link </b> </a> </li> </td>
+           </tr>
+             <tr>
+             <td> MIT Enterprise Forum Arab Startup Competition </td>
+             <td> <li> <a href="Ammar_Raka.pdf"> <b> Important Information </b> </a> </li> </td>
+             <td> <li> <a href="https://www.mitarabcompetition.com/"> <b> Link </b> </a> </li> </td>
+           </tr>
+           <tr>
+             <td> Mansoura University Engineering Forum </td>
+             <td> <li> <a href="Ammar_Raka.pdf"> <b> Important Information </b> </a> </li> </td>
+             <td> <li> <a href="https://www.facebook.com/Engineering.Forum.Faculty.of.Engineering.Mansura"> <b> Link </b> </a> </li>
+  <li> <a href=" https://www.facebook.com/YouthEngineeringSummit/"> <b> Link </b> </a> </li></td>
+           </tr>
   </table>
   
 ## Graduation Projects Funds
