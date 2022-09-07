@@ -274,8 +274,36 @@ Also, some students contributed to this repo (see Acknowledgments) by listing so
   <td> <li> <a href="https://isf.org.eg/"> <b> Link </b> </a> </li> </td>
   <td> <li> <a href="Ammar_Raka.pdf"> <b> Link </b> </a> </li> </td>
   </tr>
-  
-  
+  <tr>
+  <td>  معهد بحوث الإلكترونيات  </td>
+  <td> <li> <a href="https://eri.sci.eg/ar/"> <b> Link </b> </a> </li> </td>
+  <td> <li> <a href="Ammar_Raka.pdf"> <b> Link </b> </a> </li> </td>
+  </tr>
+  <tr>
+  <td>  GESR-مؤسسة مصر الخير  </td>
+  <td> <li> <a href="https://ar.gesr.net/"> <b> Link </b> </a> </li> </td>
+  <td> <li> <a href="Ammar_Raka.pdf"> <b> Link </b> </a> </li> </td>
+  </tr>
+  <tr>
+  <td>  Social Fund for Development (Egypt)  </td>
+  <td> <li> <a href="https://www.msme.eg/ar/Pages/default.aspx"> <b> Link </b> </a> </li> </td>
+  <td> <li> <a href="Ammar_Raka.pdf"> <b> Link </b> </a> </li> </td>
+  </tr>
+  <tr>
+  <td>   Innoventures  </td>
+  <td> <li> <a href="https://innoventures.me/"> <b> Link </b> </a> </li> </td>
+  <td> <li> <a href="Ammar_Raka.pdf"> <b> Link </b> </a> </li> </td>
+  </tr>
+  <tr>
+  <td>   Ebni  </td>
+  <td> <li> <a href="https://www.ebni.io/"> <b> Link </b> </a> </li> </td>
+  <td> <li> <a href="Ammar_Raka.pdf"> <b> Link </b> </a> </li> </td>
+  </tr>
+  <tr>
+  <td>   Sustaincubator  </td>
+  <td> <li> <a href="http://www.sustaincubator.com/"> <b> Link </b> </a> </li> </td>
+  <td> <li> <a href="Ammar_Raka.pdf"> <b> Link </b> </a> </li> </td>
+  </tr>
  
    </table> 
    
