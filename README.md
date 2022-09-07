@@ -87,6 +87,11 @@ Hi There,This is a quick list of the graduation projects competitions and funds 
              <td> <li> <a href="https://fb.watch/ePedZbxNPB/"> <b> Important Information </b> </a> </li> </td>
               <td> <li> <a href="https://www.facebook.com/egyptindustry4/"> <b> Link </b> </a> </li> </td>
            </tr>
+            <tr>
+             <td> Nile pruners – رواد النيل </td>
+             <td> <li> <a href="Ammar_Raka.pdf"> <b> Important Information </b> </a> </li> </td>
+              <td> <li> <a href="https://np.eg/"> <b> Link </b> </a> </li> </td>
+           </tr>
   </table>
   
 ## Graduation Projects Funds
