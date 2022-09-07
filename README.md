@@ -1,4 +1,4 @@
-# Graduation-Projects-Competitions-Funds
+# Graduation-Projects-Competitions-Funds-Hackathons-Challenges
 Hi There,This is a quick list of the graduation projects competitions and funds with official links and some notes about them.
 ## Graduation Projects Competitions 
   <table>  
