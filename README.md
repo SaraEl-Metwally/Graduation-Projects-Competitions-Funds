@@ -97,6 +97,31 @@ Hi There,This is a quick list of the graduation projects competitions and funds 
              <td> <li> <a href="Ammar_Raka.pdf"> <b> Important Information </b> </a> </li> </td>
               <td> <li> <a href="https://www.facebook.com/%D9%86%D8%A7%D8%AF%D9%8A-%D8%B1%D9%8A%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D8%A3%D8%B9%D9%85%D8%A7%D9%84-%D8%A8%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D9%85%D9%86%D8%B5%D9%88%D8%B1%D8%A9-EClub-108625414125755"> <b> Link </b> </a> </li> </td>
            </tr>
+             <tr>
+             <td>  FEPS </td>
+             <td> <li> <a href="Ammar_Raka.pdf"> <b> Important Information </b> </a> </li> </td>
+              <td> <li> <a href="http://fepsbi.cairouni.net/fepsincubator/home"> <b> Link </b> </a> </li> </td>
+           </tr>
+           <tr>
+             <td> NASA Space Apps Challenge </td>
+             <td> <li> <a href="Ammar_Raka.pdf"> <b> Important Information </b> </a> </li> </td>
+              <td> <li> <a href="https://www.spaceappschallenge.org/"> <b> Link </b> </a> </li> </td>
+           </tr>
+            <tr>
+             <td> مسابقة أكاديمية الدفاع الجوي </td>
+             <td> <li> <a href="Ammar_Raka.pdf"> <b> Important Information </b> </a> </li> </td>
+              <td> <li> <a href="https://iseic-adc.org/"> <b> Link </b> </a> </li> </td>
+           </tr>
+             <tr>
+             <td> TICE </td>
+             <td> <li> <a href="Ammar_Raka.pdf"> <b> Important Information </b> </a> </li> </td>
+              <td> <li> <a href="https://tiec.gov.eg/English/Programs/Start-IT/Pages/default.aspx"> <b> Link </b> </a> </li> </td>
+           </tr>
+             <tr>
+             <td> Rowad - Youth Entrepreneurship Council </td>
+             <td> <li> <a href="Ammar_Raka.pdf"> <b> Important Information </b> </a> </li> </td>
+             <td> <li> <a href="https://www.facebook.com/yec.mans"> <b> Link </b> </a> </li> </td>
+           </tr>
   </table>
   
 ## Graduation Projects Funds
