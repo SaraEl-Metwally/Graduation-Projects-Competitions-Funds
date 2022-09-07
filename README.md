@@ -308,7 +308,7 @@ Also, some students contributed to this repo (see Acknowledgments) by listing so
    </table> 
    
 ### Other created repos for graduation projects competitions  
-<li> <a href="https://github.com/NouraAlgohary/Graduation-Project-Competitions"> <b> Eng. Noura Algohary </b> </a> </li>
+- <a href="https://github.com/NouraAlgohary/Graduation-Project-Competitions"> <b> Eng. Noura Algohary </b> </a>
 ### Acknowledgments 
 1. <a href="https://m.facebook.com/story.php?story_fbid=3067362246908200&id=100009033650972"> <b> Eng. Mohamed Badr </b> </a> 
 2. <a href="https://www.facebook.com/mahmoud.nasif20?comment_id=Y29tbWVudDo1MzY3NjMyNzEzMzE1NDI1XzMyMTA2Mjc0ODkxOTU5NzM%3D"> <b> Eng. Mahmoud Nasif </b> </a>
