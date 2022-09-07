@@ -186,8 +186,9 @@ Also, some students contributed to this repo (see Acknowledgments) by listing so
            <tr>
              <td> Mansoura University Engineering Forum </td>
              <td> <li> <a href="Ammar_Raka.pdf"> <b> Important Information </b> </a> </li> </td>
-             <td> <li> <a href="https://www.facebook.com/Engineering.Forum.Faculty.of.Engineering.Mansura"> <b> Link </b> </a> </li>
-  <li> <a href=" https://www.facebook.com/YouthEngineeringSummit/"> <b> Link </b> </a> </li></td>
+             <td> <li> <a href="https://www.facebook.com/Engineering.Forum.Faculty.of.Engineering.Mansura"> <b> Link 1 </b> </a> </li>
+                  <li> <a href=" https://www.facebook.com/YouthEngineeringSummit/"> <b> Link 2 </b> </a> </li>
+             </td>
            </tr>
   </table>
   
