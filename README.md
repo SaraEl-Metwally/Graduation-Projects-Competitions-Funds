@@ -259,6 +259,24 @@ Also, some students contributed to this repo (see Acknowledgments) by listing so
   <td> <li> <a href="http://www.msmeda.org.eg/StartupPower/StartupPower/StartupPowerFinished"> <b> Link </b> </a> </li> </td>
   <td> <li> <a href="https://www.facebook.com/AhmedAbouHashima/videos/716531399545684/"> <b> Link </b> </a> </li> </td>
   </tr>
+  <tr>
+  <td> Arab Academy for Science, Technology & Maritime Transport  </td>
+  <td> <li> <a href="https://aast.edu/ar/"> <b> Link </b> </a> </li> </td>
+  <td> <li> <a href="Ammar_Raka.pdf"> <b> Link </b> </a> </li> </td>
+  </tr>
+  <tr>
+  <td>  Egyptian Space Agency  </td>
+  <td> <li> <a href="https://egsa-space-technology-portal.com/ar/"> <b> Link </b> </a> </li> </td>
+  <td> <li> <a href="Ammar_Raka.pdf"> <b> Link </b> </a> </li> </td>
+  </tr>
+  <tr>
+  <td>  Innovators Support Fund - ISF  </td>
+  <td> <li> <a href="https://isf.org.eg/"> <b> Link </b> </a> </li> </td>
+  <td> <li> <a href="Ammar_Raka.pdf"> <b> Link </b> </a> </li> </td>
+  </tr>
+  
+  
+ 
    </table> 
    
 ### Acknowledgments 
