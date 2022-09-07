@@ -1,4 +1,4 @@
-# Graduation-Projects-Competitions-Funds-Hackathons-Challenges
+# Graduation-Projects-Competitions-Funds-Hackathons
 Hi There,This is a quick list of the graduation projects competitions and funds with official links and some notes about them. Also, some students contributed to this repo (see Acknowledgments) by listing some problem solving challenges and Hackathons that are organized over an academic year for first, second, and third-year students. 
 ## Graduation Projects Competitions 
   <table>  
